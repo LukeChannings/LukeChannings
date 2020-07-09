@@ -1,8 +1,8 @@
 ## Hello! 👋
 
-I'm Luke. In my day job, I'm a freelance engineer working on Web Applications mostly.
+I'm Luke. I'm a freelance engineer who works on Web Apps.
 
-In my spare time I enjoy:
+In my spare time I enjoy,
 
 - **Home Automation**, things that matter to me are security, privacy, and offline-first. Using great open-source projects like [Home Assistant](https://github.com/home-assistant) and [Zigbee2MQTT](https://github.com/koenkk/zigbee2mqtt) I can build my own smart home that is air gapped from the internet, doesn't use weak or well-known encryption keys, and does all the same cool stuff. You can build a secure smart home. Relevant repos: [home-assistant-config](https://github.com/LukeChannings/home-assistant-config), [node-red-config](https://github.com/LukeChannings/node-red-config)
 - ***Ops**, because we all have servers, and running things on those servers should be easy. I like Kubernetes, and I like bare-metal private clusters. Relevant repos: [.config](https://github.com/LukeChannings/.config), [kube-config](https://github.com/LukeChannings/kube-config)
