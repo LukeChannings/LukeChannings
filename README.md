@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm Luke. I'm a freelance engineer who works on Web Apps.
+I'm a freelance engineer who works on Web Apps.
 
 In my spare time I enjoy,
 
