@@ -10,3 +10,9 @@ In my spare time I enjoy,
 
 
 I usually use whichever language / framework that are the best tools for whichever job I'm doing, but I'm biased towards JavaScript because that's what I'm most familiar with. I like to keep my data separated from my functions.
+
+## Public Key 🔑
+
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDYqtb58OGhJjl/mrOzt6DHYqqZ9I32Wy/Q4lyzaBEkB Luke Channings
+```
