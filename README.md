@@ -1,6 +1,6 @@
-## Hello! 👋
+## Hello, I'm Luke! 👋
 
-I'm a freelance developer that works on Web Apps.
+I'm a freelance developer, and I mostly build Web Apps.
 
 In my spare time I enjoy,
 
